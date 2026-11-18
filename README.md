@@ -1,5 +1,7 @@
 # dispsa-fixed-point
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.24335186
+
 Code, data and stored results for the paper
 
 > Suthep Suantai, Bancha Panyanak, and Kobkoon Janngam, *A two-step inertial S-iteration algorithm with Tikhonov

@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the paper and the archived code."
 title: "dispsa-fixed-point: code and data for 'A two-step inertial S-iteration algorithm with Tikhonov regularization for common fixed points and forward-backward splitting, with applications to image deblurring and data classification'"
 version: 1.0.0
+doi: 10.5281/zenodo.24335186
 repository-code: "https://github.com/KobkoonCoding/dispsa-fixed-point"
 date-released: 2026-11-18
 type: software
