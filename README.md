@@ -4,7 +4,7 @@ Archived on Zenodo: https://doi.org/10.5281/zenodo.24335186
 
 Code, data and stored results for the paper
 
-> Suthep Suantai, Bancha Panyanak, and Kobkoon Janngam, *A two-step inertial S-iteration algorithm with Tikhonov
+> Kobkoon Janngam, Bancha Panyanak, and Suthep Suantai, *A two-step inertial S-iteration algorithm with Tikhonov
 > regularization for common fixed points and forward-backward splitting, with applications to image deblurring and
 > data classification*.
 

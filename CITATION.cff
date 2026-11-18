@@ -1,28 +1,28 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the paper and the archived code."
 title: "dispsa-fixed-point: code and data for 'A two-step inertial S-iteration algorithm with Tikhonov regularization for common fixed points and forward-backward splitting, with applications to image deblurring and data classification'"
-version: 1.0.0
+version: 1.0.1
 doi: 10.5281/zenodo.24335186
 repository-code: "https://github.com/KobkoonCoding/dispsa-fixed-point"
 date-released: 2026-11-18
 type: software
 license: MIT
 authors:
-  - family-names: Suantai
-    given-names: Suthep
-    email: suthep.s@cmu.ac.th
-    affiliation: "Research Center in Optimization and Computational Intelligence for Big Data Prediction, Department of Mathematics, Faculty of Science, Chiang Mai University"
-    orcid: "https://orcid.org/0000-0002-4478-1422"
-  - family-names: Panyanak
-    given-names: Bancha
-    email: bancha.p@cmu.ac.th
-    affiliation: "Department of Mathematics, Faculty of Science, Chiang Mai University"
-    orcid: "https://orcid.org/0000-0002-0531-8523"
   - family-names: Janngam
     given-names: Kobkoon
     email: kobkoon.j@cmu.ac.th
     affiliation: "Department of Mathematics, Faculty of Science, and Office of Research Administration, Chiang Mai University"
     orcid: "https://orcid.org/0009-0003-9196-5018"
+  - family-names: Panyanak
+    given-names: Bancha
+    email: bancha.p@cmu.ac.th
+    affiliation: "Department of Mathematics, Faculty of Science, Chiang Mai University"
+    orcid: "https://orcid.org/0000-0002-0531-8523"
+  - family-names: Suantai
+    given-names: Suthep
+    email: suthep.s@cmu.ac.th
+    affiliation: "Research Center in Optimization and Computational Intelligence for Big Data Prediction, Department of Mathematics, Faculty of Science, Chiang Mai University"
+    orcid: "https://orcid.org/0000-0002-4478-1422"
 keywords:
   - fixed points of nonexpansive mappings
   - Tikhonov regularization
@@ -36,12 +36,12 @@ preferred-citation:
   journal: "Journal of Applied Mathematics and Computing"
   status: submitted
   authors:
-    - family-names: Suantai
-      given-names: Suthep
-      orcid: "https://orcid.org/0000-0002-4478-1422"
-    - family-names: Panyanak
-      given-names: Bancha
-      orcid: "https://orcid.org/0000-0002-0531-8523"
     - family-names: Janngam
       given-names: Kobkoon
       orcid: "https://orcid.org/0009-0003-9196-5018"
+    - family-names: Panyanak
+      given-names: Bancha
+      orcid: "https://orcid.org/0000-0002-0531-8523"
+    - family-names: Suantai
+      given-names: Suthep
+      orcid: "https://orcid.org/0000-0002-4478-1422"
