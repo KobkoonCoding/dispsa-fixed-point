@@ -1,0 +1,32 @@
+{
+  "title": "dispsa-fixed-point: code and data for 'A two-step inertial S-iteration algorithm with Tikhonov regularization for common fixed points and forward-backward splitting, with applications to image deblurring and data classification'",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "Code, data and stored results that reproduce the numerical experiments of the paper 'A two-step inertial S-iteration algorithm with Tikhonov regularization for common fixed points and forward-backward splitting, with applications to image deblurring and data classification' by Suthep Suantai, Bancha Panyanak, and Kobkoon Janngam. The scripts regenerate Tables 1 and 3-8 and Figure 1 of the paper (split feasibility problem, image deblurring, breast cancer classification, ablation study).",
+  "creators": [
+    {
+      "name": "Suantai, Suthep",
+      "affiliation": "Research Center in Optimization and Computational Intelligence for Big Data Prediction, Department of Mathematics, Faculty of Science, Chiang Mai University",
+      "orcid": "0000-0002-4478-1422"
+    },
+    {
+      "name": "Panyanak, Bancha",
+      "affiliation": "Department of Mathematics, Faculty of Science, Chiang Mai University",
+      "orcid": "0000-0002-0531-8523"
+    },
+    {
+      "name": "Janngam, Kobkoon",
+      "affiliation": "Department of Mathematics, Faculty of Science, and Office of Research Administration, Chiang Mai University",
+      "orcid": "0009-0003-9196-5018"
+    }
+  ],
+  "keywords": [
+    "fixed points of nonexpansive mappings",
+    "Tikhonov regularization",
+    "inertial methods",
+    "forward-backward algorithm",
+    "image deblurring",
+    "Python"
+  ]
+}
